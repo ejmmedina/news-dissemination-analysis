@@ -5,4 +5,4 @@ Using the Global Database of Events, Language, and Tones (GDELT) data, this stud
 
 ##### Report and analysis
 
-If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>.
+If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>. The code used for this analysis is available in two parts: <a href="https://github.com/ejmmedina/news-dissemination-analysis/blob/master/1-news-dissemination-processing-bdcc.md">processing</a> and <a href="https://github.com/ejmmedina/news-dissemination-analysis/blob/master/2-news-dissemination-analysis-bdcc.md">analysis</a>.
