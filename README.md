@@ -1,7 +1,7 @@
 # Predicting Speed of News Dissemination using Machine Learning Algorithm
 ##### Big Data and Cloud Computing mini-project by Justine Bu&ntilde;o, Elijah Justin Medina & Raphael Mari Ongleo
 
-Using the Global Database of Events, Language, and Tones (GDELT) data, this study analyzes the delays between different reports of certain events. From the built model, the factors that affect the speed of dissemination is analyzed.
+Using the Global Database of Events, Language, and Tones (GDELT) data, this study analyzes the delays between different reports of certain events. From the built model, the factors that affect the speed of dissemination are analyzed.
 
 ##### Report and analysis
 
